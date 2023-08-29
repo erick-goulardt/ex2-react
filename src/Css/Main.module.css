@@ -1,0 +1,33 @@
+.mainContainer {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: auto;
+}
+
+.tableForm, .inputSearch {
+    margin-top: 20px;
+}
+
+.tableItem {
+    padding: 0 30px;
+}
+
+.formBorder {
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 25px;
+    height: max-content;
+}
+
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+    width: 692px;
+    align-items: center;
+}
+
+.favMovie {
+    border: 1px solid black;
+    margin-top: 10px;
+}
